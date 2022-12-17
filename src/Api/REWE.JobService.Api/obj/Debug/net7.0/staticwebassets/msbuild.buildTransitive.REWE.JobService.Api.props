@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\REWE.JobService.Api.props" />
+</Project>

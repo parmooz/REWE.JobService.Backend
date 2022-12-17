@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REWE.JobService.Api.props" />
+</Project>

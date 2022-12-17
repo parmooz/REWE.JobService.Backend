@@ -1,0 +1,12 @@
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Infrastructure.deps.json
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Infrastructure.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Infrastructure.pdb
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.csproj.AssemblyReference.cache
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.AssemblyInfoInputs.cache
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.AssemblyInfo.cs
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\refint\REWE.JobService.Infrastructure.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.pdb
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\ref\REWE.JobService.Infrastructure.dll

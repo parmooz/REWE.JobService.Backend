@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cSmM7RIPnGuBAtE4HrDqTZJe3+I/r+zjXfrENv4oWwI=",
+  "Source": "REWE.JobService.Api",
+  "BasePath": "_content/REWE.JobService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
