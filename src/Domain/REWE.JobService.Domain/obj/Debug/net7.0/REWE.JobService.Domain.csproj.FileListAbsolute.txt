@@ -10,3 +10,15 @@ D:\REWE\REWE.JobService\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.
 D:\REWE\REWE.JobService\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\refint\REWE.JobService.Domain.dll
 D:\REWE\REWE.JobService\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.pdb
 D:\REWE\REWE.JobService\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\ref\REWE.JobService.Domain.dll
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.csproj.AssemblyReference.cache
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.AssemblyInfoInputs.cache
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.AssemblyInfo.cs
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.csproj.CoreCompileInputs.cache
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.dll
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\refint\REWE.JobService.Domain.dll
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\REWE.JobService.Domain.pdb
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\bin\Debug\net7.0\REWE.JobService.Domain.deps.json
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\bin\Debug\net7.0\REWE.JobService.Domain.dll
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\bin\Debug\net7.0\REWE.JobService.Domain.pdb
+C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\obj\Debug\net7.0\ref\REWE.JobService.Domain.dll

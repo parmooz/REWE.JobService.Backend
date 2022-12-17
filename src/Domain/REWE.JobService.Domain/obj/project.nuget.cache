@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e1tTrJvGniKBxkXbsy0nClk0tfn08E/gqDqJ0Tr+X0P78uEVJG6En1v0b8bFqoxlOqFEWUaYIisBIrW6i9zhvA==",
+  "dgSpecHash": "kEwwRM4y0D9elr9jeOca3xLhZzpW//ilw3hf796u8hHt+jqB3zrl+908mtvGBJUrdeSa6r36bnLsT/wsaIAdng==",
   "success": true,
-  "projectFilePath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
+  "projectFilePath": "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

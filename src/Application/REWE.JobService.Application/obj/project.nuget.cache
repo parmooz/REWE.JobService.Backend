@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+1N+hSO3lFbpN6dboH29WWt6m5A8I4GLITTvVjic7qVMnM7PtfWm8PrYcSrsMfP/j8EzIxVVKZBNF1Fo5tElg==",
+  "dgSpecHash": "Nhgt7HfWEwits85u/Gn7AJVMCSuPPbnfcoZo2CPXTV7DQBMttoM2NyrB6QlchLo3Pr/nAGmlo9nllHz++k8dZQ==",
   "success": true,
-  "projectFilePath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rayan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

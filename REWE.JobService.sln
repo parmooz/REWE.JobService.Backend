@@ -7,19 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C2F4B199-931
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E9E7DFCF-18C1-4C6F-BE84-B513C07531F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Domain", "src\Domain\REWE.JobService.Domain\REWE.JobService.Domain.csproj", "{EAD3BE37-25D4-4656-A3A2-3B1AA0CBF478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Domain", "src\Domain\REWE.JobService.Domain\REWE.JobService.Domain.csproj", "{EAD3BE37-25D4-4656-A3A2-3B1AA0CBF478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Application", "src\Application\REWE.JobService.Application\REWE.JobService.Application.csproj", "{B95A9CC0-30C6-4458-8307-C1F9709A5E43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Application", "src\Application\REWE.JobService.Application\REWE.JobService.Application.csproj", "{B95A9CC0-30C6-4458-8307-C1F9709A5E43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Infrastructure", "src\Infrastructure\REWE.JobService.Infrastructure\REWE.JobService.Infrastructure.csproj", "{E04D7C87-8ADF-4953-9F5F-700AD8B37D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Infrastructure", "src\Infrastructure\REWE.JobService.Infrastructure\REWE.JobService.Infrastructure.csproj", "{E04D7C87-8ADF-4953-9F5F-700AD8B37D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Api", "src\Api\REWE.JobService.Api\REWE.JobService.Api.csproj", "{F903C206-E98E-4107-8FD1-5B7F702175F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Api", "src\Api\REWE.JobService.Api\REWE.JobService.Api.csproj", "{F903C206-E98E-4107-8FD1-5B7F702175F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Domain.UnitTest", "test\Domain\REWE.JobService.Domain.UnitTest\REWE.JobService.Domain.UnitTest.csproj", "{8C9E8699-EBE2-432E-8AC8-D721375B2E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Domain.UnitTest", "test\Domain\REWE.JobService.Domain.UnitTest\REWE.JobService.Domain.UnitTest.csproj", "{8C9E8699-EBE2-432E-8AC8-D721375B2E60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Api.UnitTest", "test\Api\REWE.JobService.Api.UnitTest\REWE.JobService.Api.UnitTest.csproj", "{EE9BA323-AB08-42B6-B44E-778E863245CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Api.UnitTest", "test\Api\REWE.JobService.Api.UnitTest\REWE.JobService.Api.UnitTest.csproj", "{EE9BA323-AB08-42B6-B44E-778E863245CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REWE.JobService.Api.IntegrationTest", "test\Api\REWE.JobService.Api.IntegrationTest\REWE.JobService.Api.IntegrationTest.csproj", "{DCB66C71-FE14-49EB-9D03-A1516FA31D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REWE.JobService.Api.IntegrationTest", "test\Api\REWE.JobService.Api.IntegrationTest\REWE.JobService.Api.IntegrationTest.csproj", "{DCB66C71-FE14-49EB-9D03-A1516FA31D7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{B7E368B6-BD68-4D5D-83B5-CCF6A954E0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
