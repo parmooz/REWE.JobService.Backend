@@ -97,3 +97,6 @@ D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\obj\Debug\ne
 D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\obj\Debug\net7.0\REWE.JobService.Domain.UnitTest.pdb
 D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\obj\Debug\net7.0\REWE.JobService.Domain.UnitTest.genruntimeconfig.cache
 D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\obj\Debug\net7.0\ref\REWE.JobService.Domain.UnitTest.dll
+D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\bin\Debug\net7.0\REWE.JobService.Domain.dll
+D:\REWE\REWE.JobService\test\Domain\REWE.JobService.Domain.UnitTest\bin\Debug\net7.0\REWE.JobService.Domain.pdb

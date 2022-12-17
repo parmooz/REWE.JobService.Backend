@@ -31,3 +31,9 @@ D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\obj\Debug\net7.0\refint\REWE
 D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\obj\Debug\net7.0\REWE.JobService.Api.pdb
 D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\obj\Debug\net7.0\REWE.JobService.Api.genruntimeconfig.cache
 D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\obj\Debug\net7.0\ref\REWE.JobService.Api.dll
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Application.dll
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Domain.dll
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Infrastructure.dll
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Application.pdb
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Infrastructure.pdb
+D:\REWE\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Domain.pdb

@@ -10,3 +10,8 @@ D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\De
 D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\refint\REWE.JobService.Infrastructure.dll
 D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.pdb
 D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\ref\REWE.JobService.Infrastructure.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Application.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Domain.dll
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Application.pdb
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\bin\Debug\net7.0\REWE.JobService.Domain.pdb
+D:\REWE\REWE.JobService\src\Infrastructure\REWE.JobService.Infrastructure\obj\Debug\net7.0\REWE.JobService.Infrastructure.csproj.CopyComplete
