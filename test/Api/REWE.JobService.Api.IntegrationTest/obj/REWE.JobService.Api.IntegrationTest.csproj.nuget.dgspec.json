@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\REWE\\Backend\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj": {}
+    "D:\\REWE\\REWE.JobService\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj": {}
   },
   "projects": {
-    "C:\\Project\\REWE\\Backend\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj": {
+    "D:\\REWE\\REWE.JobService\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\REWE\\Backend\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj",
+        "projectUniqueName": "D:\\REWE\\REWE.JobService\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj",
         "projectName": "REWE.JobService.Api.IntegrationTest",
-        "projectPath": "C:\\Project\\REWE\\Backend\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj",
-        "packagesPath": "C:\\Users\\Rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\REWE\\Backend\\test\\Api\\REWE.JobService.Api.IntegrationTest\\obj\\",
+        "projectPath": "D:\\REWE\\REWE.JobService\\test\\Api\\REWE.JobService.Api.IntegrationTest\\REWE.JobService.Api.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\parmooz\\.nuget\\packages\\",
+        "outputPath": "D:\\REWE\\REWE.JobService\\test\\Api\\REWE.JobService.Api.IntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\parmooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

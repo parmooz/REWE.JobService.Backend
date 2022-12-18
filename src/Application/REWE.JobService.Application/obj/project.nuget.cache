@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Nhgt7HfWEwits85u/Gn7AJVMCSuPPbnfcoZo2CPXTV7DQBMttoM2NyrB6QlchLo3Pr/nAGmlo9nllHz++k8dZQ==",
+  "dgSpecHash": "/ilZu5Y21SEtpxQGgXbQsvQjN+KzfUVBxli4UoyU8S7Tlc175MmD+aJyjOkm4IZHK6izE1Lf2bXhTz7dWtAoLw==",
   "success": true,
-  "projectFilePath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
+  "projectFilePath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rayan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\parmooz\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

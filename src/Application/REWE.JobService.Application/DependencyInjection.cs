@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using REWE.JobService.Application.Identity;
+using REWE.JobService.Application.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +14,7 @@ namespace REWE.JobService.Application
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
+            services.AddScoped<IIdentityService, IdentityService>();
             return services;
         }
     }

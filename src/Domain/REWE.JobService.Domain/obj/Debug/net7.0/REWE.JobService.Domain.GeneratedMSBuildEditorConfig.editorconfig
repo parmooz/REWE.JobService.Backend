@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = REWE.JobService.Domain
-build_property.ProjectDir = C:\Project\REWE\Backend\src\Domain\REWE.JobService.Domain\
+build_property.ProjectDir = D:\REWE\REWE.JobService\src\Domain\REWE.JobService.Domain\

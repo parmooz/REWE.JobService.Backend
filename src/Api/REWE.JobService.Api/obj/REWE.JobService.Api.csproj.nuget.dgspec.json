@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\REWE\\Backend\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj": {}
+    "D:\\REWE\\REWE.JobService\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Project\\REWE\\Backend\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj": {
+    "D:\\REWE\\REWE.JobService\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\REWE\\Backend\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj",
+        "projectUniqueName": "D:\\REWE\\REWE.JobService\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj",
         "projectName": "REWE.JobService.Api",
-        "projectPath": "C:\\Project\\REWE\\Backend\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj",
-        "packagesPath": "C:\\Users\\Rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\REWE\\Backend\\src\\Api\\REWE.JobService.Api\\obj\\",
+        "projectPath": "D:\\REWE\\REWE.JobService\\src\\Api\\REWE.JobService.Api\\REWE.JobService.Api.csproj",
+        "packagesPath": "C:\\Users\\parmooz\\.nuget\\packages\\",
+        "outputPath": "D:\\REWE\\REWE.JobService\\src\\Api\\REWE.JobService.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\parmooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
-                "projectPath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj"
+              "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
+                "projectPath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj"
               },
-              "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj": {
-                "projectPath": "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj"
+              "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj": {
+                "projectPath": "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj"
               }
             }
           }
@@ -47,6 +52,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -79,17 +88,21 @@
         }
       }
     },
-    "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
+    "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
+        "projectUniqueName": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
         "projectName": "REWE.JobService.Application",
-        "projectPath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
-        "packagesPath": "C:\\Users\\Rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\obj\\",
+        "projectPath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
+        "packagesPath": "C:\\Users\\parmooz\\.nuget\\packages\\",
+        "outputPath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\parmooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,14 +110,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj": {
-                "projectPath": "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj"
+              "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj": {
+                "projectPath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj"
               }
             }
           }
@@ -119,6 +133,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -144,17 +162,21 @@
         }
       }
     },
-    "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj": {
+    "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
+        "projectUniqueName": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
         "projectName": "REWE.JobService.Domain",
-        "projectPath": "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\REWE\\Backend\\src\\Domain\\REWE.JobService.Domain\\obj\\",
+        "projectPath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
+        "packagesPath": "C:\\Users\\parmooz\\.nuget\\packages\\",
+        "outputPath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\parmooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,6 +184,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -199,17 +222,21 @@
         }
       }
     },
-    "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj": {
+    "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj",
         "projectName": "REWE.JobService.Infrastructure",
-        "projectPath": "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\REWE\\Backend\\src\\Infrastructure\\REWE.JobService.Infrastructure\\obj\\",
+        "projectPath": "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\REWE.JobService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\parmooz\\.nuget\\packages\\",
+        "outputPath": "D:\\REWE\\REWE.JobService\\src\\Infrastructure\\REWE.JobService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\parmooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,14 +244,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
-                "projectPath": "C:\\Project\\REWE\\Backend\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj"
+              "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
+                "projectPath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj"
               }
             }
           }
@@ -248,6 +276,14 @@
               "version": "[7.0.1, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
               "target": "Package",
               "version": "[7.0.0, )"
             }
