@@ -1,0 +1,5 @@
+D:\REWE\REWE.JobService\test\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\TestControllers.csproj.AssemblyReference.cache
+D:\REWE\REWE.JobService\test\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\TestControllers.GeneratedMSBuildEditorConfig.editorconfig
+D:\REWE\REWE.JobService\test\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\TestControllers.AssemblyInfoInputs.cache
+D:\REWE\REWE.JobService\test\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\TestControllers.AssemblyInfo.cs
+D:\REWE\REWE.JobService\test\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\TestControllers.csproj.CoreCompileInputs.cache
