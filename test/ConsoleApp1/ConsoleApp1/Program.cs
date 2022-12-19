@@ -4,9 +4,8 @@
 using System.Net;
 using System;
 using System.Text;
-using REWE.JobService.Api.Contracts;
 using System.Text.Json;
-using REWE.JobService.Domain.Common;
+using REWE.JobService.Api.Contracts;
 
 var httpClient = new HttpClient();
 httpClient.BaseAddress = new Uri("http://localhost:5000/");

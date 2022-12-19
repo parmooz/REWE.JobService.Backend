@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Api\REWE.JobService.Api\REWE.JobService.Api.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="REWE.JobService.Api">
       <HintPath>..\..\REWE.JobService\src\Api\REWE.JobService.Api\bin\Debug\net7.0\REWE.JobService.Api.dll</HintPath>
     </Reference>
