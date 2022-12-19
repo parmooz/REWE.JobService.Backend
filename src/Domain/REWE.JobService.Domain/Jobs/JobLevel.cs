@@ -8,7 +8,6 @@ namespace REWE.JobService.Domain.Jobs
 {
     public class JobLevel
     {
-        public int Id { get; init; }
         public string Name { get; init; }
     }
 }

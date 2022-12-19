@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/ilZu5Y21SEtpxQGgXbQsvQjN+KzfUVBxli4UoyU8S7Tlc175MmD+aJyjOkm4IZHK6izE1Lf2bXhTz7dWtAoLw==",
+  "dgSpecHash": "zMqEwg7WztYB2PrvTD7tBdRFyNGsC2jNHsaoof3iCS4On34rSpymngH2j2IQcqYns4ZerrmdNdPfQB/bpb0QgA==",
   "success": true,
   "projectFilePath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parmooz\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\parmooz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\parmooz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }

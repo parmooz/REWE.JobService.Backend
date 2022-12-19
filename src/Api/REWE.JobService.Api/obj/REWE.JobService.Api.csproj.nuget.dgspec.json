@@ -202,6 +202,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -253,6 +259,9 @@
             "projectReferences": {
               "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj": {
                 "projectPath": "D:\\REWE\\REWE.JobService\\src\\Application\\REWE.JobService.Application\\REWE.JobService.Application.csproj"
+              },
+              "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj": {
+                "projectPath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj"
               }
             }
           }
@@ -286,6 +295,16 @@
             "Microsoft.Extensions.Options.ConfigurationExtensions": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
             }
           },
           "imports": [

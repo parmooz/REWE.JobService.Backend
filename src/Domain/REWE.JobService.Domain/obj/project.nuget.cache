@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e1tTrJvGniKBxkXbsy0nClk0tfn08E/gqDqJ0Tr+X0P78uEVJG6En1v0b8bFqoxlOqFEWUaYIisBIrW6i9zhvA==",
+  "dgSpecHash": "E84QDcaaDRY4l50nUXfb+a701DSLEvls4mbSDg48KAcCYY0oWdm8weKs9qG1jgBDTzFvP6W84cXYBmfkXC5U8w==",
   "success": true,
   "projectFilePath": "D:\\REWE\\REWE.JobService\\src\\Domain\\REWE.JobService.Domain\\REWE.JobService.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -31,7 +31,6 @@ namespace REWE.JobService.Infrastructure.Common.ExternalServices.Http
                  new KeyValuePair<string, string>("grant_type", "client_credentials")
             };
 
-            //StringContent postContent = new StringContent(JsonConvert.SerializeObject(content));
 
 
             using (var response = await _client.PostAsync("auth/token", new FormUrlEncodedContent(data)))

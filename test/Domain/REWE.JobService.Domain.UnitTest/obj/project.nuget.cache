@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cicQJKT47Z+thmHOpaDpTbSpY6+h+oxodeIep7FGLrDDmpIAhahpS2B3WW17LRe8NGPsUf47/FAOzkw2tR+ZAw==",
+  "dgSpecHash": "ArHD+/tinkNln1fpAQb+qYV/IKaSrMC+5qpK67Ks7KMYLkn51qoxhX8Nugb+z1tpb9tnypwDesjQpI7zZPZTeg==",
   "success": true,
   "projectFilePath": "D:\\REWE\\REWE.JobService\\test\\Domain\\REWE.JobService.Domain.UnitTest\\REWE.JobService.Domain.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -81,6 +81,8 @@
     "C:\\Users\\parmooz\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\parmooz\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\parmooz\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

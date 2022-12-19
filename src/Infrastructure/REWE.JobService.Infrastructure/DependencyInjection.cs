@@ -3,6 +3,8 @@ using Microsoft.Extensions.DependencyInjection;
 using REWE.JobService.Application.Common.Interfaces;
 using REWE.JobService.Infrastructure.Common.ExternalServices.Http;
 using REWE.JobService.Infrastructure.Identity;
+using REWE.JobService.Infrastructure.JobApplications;
+using REWE.JobService.Infrastructure.Jobs;
 
 namespace REWE.JobService.Infrastructure
 {
@@ -14,7 +16,10 @@ namespace REWE.JobService.Infrastructure
             services.Configure<AuthTokenSettings>(configuration.GetSection(AuthTokenSettings.SectionName));
             services.AddHttpClient<AuthTokenClient>();
             services.AddHttpClient<JobServiceClient>();
-            services.AddScoped<ITokenGenerator, TokenGenerator>();
+            services.AddScoped<ITokenGenerator, TokenGenerator>(); 
+            services.AddScoped<IJobSearchService, JobSearchService>();
+            services.AddScoped<IJobFilterService, JobFilterService>(); 
+            services.AddScoped<IJobApplicationProvider, JobApplicationProvider>();
             return services;
         }
     }

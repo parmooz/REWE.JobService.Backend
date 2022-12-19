@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using REWE.JobService.Domain.Applicants;
 using System.Net;
 using System;
+using REWE.JobService.Api.Contracts;
+using REWE.JobService.Application.JobApplications;
+using System.Net.WebSockets;
 
 namespace REWE.JobService.Api.Controllers.V1
 {
@@ -10,13 +13,19 @@ namespace REWE.JobService.Api.Controllers.V1
     [ApiController]
     public class ApplicationsController : ControllerBase
     {
+        private readonly IJobApplicationService _jobApplicationService;
+
+        public ApplicationsController(IJobApplicationService jobApplicationService) { _jobApplicationService = jobApplicationService; }
+
         [HttpPost("credentials")]
         //This endpoint creates a new job-application and returns credentials, which are used for any further manipulation of the applicaion
 
-        public async Task<IActionResult> Authenticate()
+        public async Task<IActionResult> Authenticate([FromBody] ApplicationAuthRequest request)
         {
-            await Task.CompletedTask;
-            return Ok("UploadDocument");
+            var result=await _jobApplicationService.CreateApplicationAuth(request.authCode);
+            var res = new ApplicationAuthResponse(result.Id, result.AuthCode, result.ExpirationTimestamp);
+           
+            return Ok(res);
         }
 
 

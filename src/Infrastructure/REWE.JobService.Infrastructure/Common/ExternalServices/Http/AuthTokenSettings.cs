@@ -11,7 +11,5 @@ namespace REWE.JobService.Infrastructure.Common.ExternalServices.Http
         public const string SectionName = "AuthTokenSettings";
         public string Url { get; set; }
 
-        public string Username { get; set; }
-        public string Password { get; set; }
     }
 }
